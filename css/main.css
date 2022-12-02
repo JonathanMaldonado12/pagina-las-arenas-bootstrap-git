@@ -1,0 +1,11 @@
+nav {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(244, 239, 239);
+}
+#fotos_p{
+    max-height: 90vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
