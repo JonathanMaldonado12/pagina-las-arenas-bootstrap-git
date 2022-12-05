@@ -1,0 +1,10 @@
+#portada-principal{
+    background-size: cover;
+}
+
+#titulo-menu{
+    color: white;
+    font-size: 40px;
+    text-shadow: 4px 4px rgba(0,0,0,0.5) !important;
+}
+

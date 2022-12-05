@@ -1,0 +1,16 @@
+#title-qns{
+    color: white;
+    font-size: 50px;
+    margin-top: 50px;
+    font-family: Merriweather, Arial, Helvetica, sans-serif;
+    text-shadow: 4px 4px 4px black;
+}
+
+.contenido-qns{
+    color: white;
+    background-color: rgba(0, 0, 0, .2);
+    height: 100px;
+    font-size: 30px;
+    text-align: center !important;
+    box-shadow: 4px 4px -1px black;
+}
